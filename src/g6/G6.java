@@ -17,10 +17,8 @@ public class G6 {
     public static void main(String[] args) {
         System.out.println("Hello!");
         System.out.println("Testing");
-        System.out.println("test3");
-        System.out.println("testing 3");
-        System.out.println("testingg");
         System.out.println("test123");
+        System.out.printlin("test456");
     }
     
 }
