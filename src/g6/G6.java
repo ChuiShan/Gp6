@@ -18,6 +18,7 @@ public class G6 {
         System.out.println("Hello!");
         System.out.println("Testing");
         System.out.println("test3");
+        System.out.println("testing 3");
     }
     
 }
