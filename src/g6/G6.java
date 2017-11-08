@@ -19,6 +19,7 @@ public class G6 {
         System.out.println("Testing");
         System.out.println("test123");
         System.out.println("test456");
+        System.out.println("123");
     }
     
 }
